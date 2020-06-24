@@ -1,0 +1,52 @@
+﻿img{
+    float:left;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-family: Georgia;
+}
+.label {
+    font-family: Georgia;
+    display:inline-block;
+}
+.textbox {
+    border-radius: 5px;
+    border: solid 1px;
+    height: 30px;
+    width: 350px;
+    font-family: Georgia;
+}
+.button {
+    position: fixed;
+    left: 50%;
+    right: 50%;
+    height: 50px;
+    width: 100px;
+    border: thin;
+    border-radius: 5px;
+    background-color: skyblue;
+    text-align: center;
+    font-family: Georgia;
+}
+.button1 {
+    position: fixed;
+    height: 80px;
+    width: 150px;
+    border: thin;
+    border-radius: 5px;
+    background-color: darkcyan;
+    text-align: center;
+    font-family: Georgia;
+    font-size: large;
+}
+.link {
+    margin-left: 930px;
+    font-family: Georgia;
+    font-size: large;
+    color: darkblue;
+}
+.chkboxlist {
+    font-family: Georgia;
+    font-size: x-large;
+}
